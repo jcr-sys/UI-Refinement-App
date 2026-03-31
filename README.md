@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# UI-Refinement-App
+This activity will help you understand the purpose behind good UI and UX design. You will use AI as a design tool and then manually refine the code in React Native. 
+>>>>>>> 89851e291c6f22c420bfde4d134627fbeedae882
